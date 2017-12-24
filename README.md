@@ -1,4 +1,4 @@
 # Training Bible
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Selected training resources from the web segmented based on topic and level of difficulty
 
