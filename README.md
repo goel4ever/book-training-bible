@@ -18,5 +18,11 @@ References
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 ```
 
+##### Resources
+
+```
+https://www.themuse.com/advice/51-tech-and-business-resources-to-use-if-you-want-to-be-an-expert-in-your-field
+```
+
 
 
