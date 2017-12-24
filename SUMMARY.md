@@ -12,5 +12,5 @@
 * [Docker](docker.md)
 * [Vagrant](vagrant.md)
 * [Google Cloud Platform](google-cloud-platform.md)
-* [Git](git.md)
+* [Data Science](data-science.md)
 
