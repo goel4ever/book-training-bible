@@ -23,6 +23,13 @@ https://www.lightningdesignsystem.com/
 http://www.reactexamples.com/
 ```
 
+##### HTML5
+
+```
+https://www.w3schools.com/html/html5_webstorage.asp
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+```
+
 ##### SVG
 
 ```

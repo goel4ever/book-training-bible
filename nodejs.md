@@ -12,6 +12,12 @@ https://stackoverflow.com/questions/tagged/node.js
 https://docs.nodejitsu.com/
 ```
 
+##### Best Practices
+
+```
+https://devcenter.heroku.com/articles/node-best-practices
+```
+
 ##### Novice Training
 
 ```
@@ -27,10 +33,11 @@ Subscription
 https://egghead.io/browse/platforms/node
 ```
 
-##### Project Ideas
+##### Tutorials
 
 ```
-https://github.com/sqreen/awesome-nodejs-projects
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
+
 ```
 
 
