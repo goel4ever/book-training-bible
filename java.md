@@ -17,6 +17,15 @@ https://www.udacity.com/course/java-programming-basics--ud282
 ```
 http://xahlee.info/java-a-day/extend.html
 https://www.tutorialspoint.com/java/java_interfaces.htm
+
+https://www.javatpoint.com/java-treeset
+
+Spring
+======
+Google: spring static data store
+https://spring.io/guides/gs/caching/
+http://www.baeldung.com/spring-mvc-static-resources
+
 ```
 
 ##### Spring Training
