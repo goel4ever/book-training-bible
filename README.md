@@ -24,6 +24,13 @@ https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 https://portal.synergyse.com/a/#videos/en/drive
 ```
 
+##### Serverless Architecture
+
+```
+https://serverless.com/
+https://github.com/abachuk/serverless-graphql-api
+```
+
 ##### Resources
 
 ```
