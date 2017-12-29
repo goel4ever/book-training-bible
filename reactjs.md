@@ -78,5 +78,11 @@ Code convention:
 https://github.com/airbnb/javascript/tree/master/react
 ```
 
+##### Good Reads
+
+```
+https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2
+```
+
 
 
