@@ -24,7 +24,9 @@ https://www.udacity.com/course/javascript-design-patterns--ud989
 ##### eBooks
 
 ```
+https://leanpub.com/javascriptallongesix/read
 https://leanpub.com/understandinges6/read/
+
 https://jsbooks.revolunet.com/
 
 https://github.com/survivejs/webpack-book

@@ -36,5 +36,14 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 http://svgpocketguide.com/book/
 ```
 
+#### Good Reads
+
+##### Style Blogs
+
+```
+https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583
+
+```
+
 
 
