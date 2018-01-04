@@ -38,5 +38,13 @@ https://www.themuse.com/advice/51-tech-and-business-resources-to-use-if-you-want
 https://www.linkedin.com/learning/me?trk=feed-cymbii_see_more_learning
 ```
 
+##### Free eBooks
+
+```
+http://greenteapress.com/wp/
+http://greenteapress.com/wp/think-bayes/
+
+```
+
 
 
