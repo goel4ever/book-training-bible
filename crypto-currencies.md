@@ -34,6 +34,18 @@ https://bitconnect.co/
 https://bitsonblocks.net/
 
 https://www.engadget.com/2017/12/14/bitcoin-is-failing-as-a-currency/
+
+https://www.finder.com/cryptocurrency
+https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/
+https://hackernoon.com/cardano-ethereum-and-neo-killer-or-overhyped-and-overpriced-8fcd5f8abcdf
+```
+
+##### Tools
+
+```
+https://livemarketcap.com/
+https://hackernoon.com/useful-services-for-all-cryptocurrency-enthusiasts-ad1f741a3a3
 ```
 
 ##### Links
