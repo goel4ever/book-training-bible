@@ -1,5 +1,12 @@
 # Crypto Currencies
 
+##### Courseware
+
+```
+https://developer.ibm.com/courses/all/ibm-blockchain-foundation-developer/
+    https://www.youracclaim.com/badges/dfaab91e-bff8-4ec7-b9f3-5e5596b2f8e8/linked_in?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bf4kqhTf4T0qYUa%2F1J%2BmbQg%3D%3D
+```
+
 Video card performance is measured in Hash Rate usually MH/s.
 
 ```

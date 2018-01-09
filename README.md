@@ -2,6 +2,12 @@
 
 Selected training resources from the web segmented based on topic and level of difficulty
 
+##### Certification
+
+```
+https://www.youracclaim.com/
+```
+
 ##### Git
 
 ```
@@ -43,7 +49,12 @@ https://www.linkedin.com/learning/me?trk=feed-cymbii_see_more_learning
 ```
 http://greenteapress.com/wp/
 http://greenteapress.com/wp/think-bayes/
+```
 
+##### Learning Resources
+
+```
+https://developer.ibm.com/courses/learning-paths/
 ```
 
 
