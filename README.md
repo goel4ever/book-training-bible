@@ -54,7 +54,15 @@ http://greenteapress.com/wp/think-bayes/
 ##### Learning Resources
 
 ```
+https://www.ibm.com/developerworks/learn/
 https://developer.ibm.com/courses/learning-paths/
+https://cognitiveclass.ai/
+
+https://www.coursera.org/
+https://www.edx.org/
+http://www.udacity.com/
+https://www.udemy.com/
+https://mva.microsoft.com/
 ```
 
 
