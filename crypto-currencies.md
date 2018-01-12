@@ -35,6 +35,7 @@ Lending
 https://bitconnect.co/
 
 https://www.buybitcoinworldwide.com/definitions/
+https://en.bitcoin.it/wiki/Mining_hardware_comparison
 ```
 
 ##### Reading Material
@@ -55,6 +56,7 @@ https://hackernoon.com/cardano-ethereum-and-neo-killer-or-overhyped-and-overpric
 ```
 https://livemarketcap.com/
 https://hackernoon.com/useful-services-for-all-cryptocurrency-enthusiasts-ad1f741a3a3
+https://whattomine.com/
 ```
 
 ##### Links
