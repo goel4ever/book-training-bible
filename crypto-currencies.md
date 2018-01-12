@@ -33,6 +33,8 @@ https://www.genesis-mining.com/
 
 Lending
 https://bitconnect.co/
+
+https://www.buybitcoinworldwide.com/definitions/
 ```
 
 ##### Reading Material
