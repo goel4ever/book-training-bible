@@ -14,4 +14,5 @@
 * [Google Cloud Platform](google-cloud-platform.md)
 * [Data Science](data-science.md)
 * [Databases](databases.md)
+* [IOT](iot.md)
 
