@@ -1,6 +1,6 @@
 # Training Bible
 
-Selected training resources from the web segmented based on topic and level of difficulty
+Selected training resources from the web segmented based on topic and level of difficulty. I'll be adding reviews for each course as I complete them. This document serves as quick access to training resources as well as learn how much a training is worth spending time in.
 
 ##### Certification
 

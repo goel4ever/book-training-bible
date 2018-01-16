@@ -12,6 +12,7 @@ https://neo4j.com/docs/developer-manual/current/drivers/get-started/
 Basic
 -----
 https://dsla1.com/course/hadoop-basics-course/
+    Review: Bookish content. Ok types.
 
 https://www.cloudera.com/more/training/library/hadoop-essentials.html
 http://www.ibm.com/developerworks/data/library/techarticle/dm-1209hadoopbigdata/
