@@ -24,24 +24,10 @@ References
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 ```
 
-##### G-Suite training
+##### Algorithms
 
 ```
-https://portal.synergyse.com/a/#videos/en/drive
-```
-
-##### Serverless Architecture
-
-```
-https://serverless.com/
-https://github.com/abachuk/serverless-graphql-api
-```
-
-##### Resources
-
-```
-https://www.themuse.com/advice/51-tech-and-business-resources-to-use-if-you-want-to-be-an-expert-in-your-field
-https://www.linkedin.com/learning/me?trk=feed-cymbii_see_more_learning
+https://projecteuler.net/
 ```
 
 ##### Free eBooks
@@ -49,6 +35,21 @@ https://www.linkedin.com/learning/me?trk=feed-cymbii_see_more_learning
 ```
 http://greenteapress.com/wp/
 http://greenteapress.com/wp/think-bayes/
+```
+
+##### Learning Resources - Free
+
+```
+https://www.codecademy.com
+https://www.freecodecamp.org/
+https://www.linkedin.com/learning/me
+
+Time-based free course
+https://learn.pluralsight.com/resource/free-course/free-weekly-course
+
+Youtube Channels
+https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A        // CS Dojo
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ        // FreeCodeCamp
 ```
 
 ##### Learning Resources
@@ -63,6 +64,14 @@ https://www.edx.org/
 http://www.udacity.com/
 https://www.udemy.com/
 https://mva.microsoft.com/
+```
+
+##### Tech Conferences
+
+```
+Google Cloud Next
+Google I/O
+Strata Data Conference
 ```
 
 

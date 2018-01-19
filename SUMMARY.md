@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+  * [Random Trainings](random-trainings.md)
 * [Design](design.md)
 * [JavaScript](javascript.md)
 * [Node.js](nodejs.md)
@@ -15,4 +16,5 @@
 * [Data Science](data-science.md)
 * [Databases](databases.md)
 * [IOT](iot.md)
+* [Ruby](ruby.md)
 
