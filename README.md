@@ -27,6 +27,7 @@ http://greenteapress.com/wp/think-bayes/
 https://www.codecademy.com
 https://www.freecodecamp.org/
 https://www.linkedin.com/learning/me
+https://scrimba.com/
 
 Time-based free course
 https://learn.pluralsight.com/resource/free-course/free-weekly-course
