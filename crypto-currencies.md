@@ -51,6 +51,12 @@ https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/
 https://hackernoon.com/cardano-ethereum-and-neo-killer-or-overhyped-and-overpriced-8fcd5f8abcdf
 ```
 
+##### Blogs to read
+
+```
+https://thenextweb.com/syndication/2018/01/21/bitcoin-future-will-always-end-centralization/
+```
+
 ##### Tools
 
 ```
