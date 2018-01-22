@@ -55,6 +55,10 @@ https://hackernoon.com/cardano-ethereum-and-neo-killer-or-overhyped-and-overpric
 
 ```
 https://thenextweb.com/syndication/2018/01/21/bitcoin-future-will-always-end-centralization/
+
+BlockChain
+https://www.fool.com/investing/2018/01/10/the-basics-of-blockchain-technology-explained-in-p.aspx
+
 ```
 
 ##### Tools
