@@ -64,9 +64,22 @@ https://www.edx.org/
 http://www.udacity.com/
 https://www.udemy.com/
 https://mva.microsoft.com/
+```
 
+##### Learning Resources - Paid
+
+```
 https://stackskills.com/courses/enrolled
     https://deals.thenextweb.com/free
+
+https://deals.thenextweb.com/sales/pwyw-full-stack-web-development-bundle-2     # $13.33
+https://deals.thenextweb.com/sales/pwyw-learn-to-code-2017-google-go            # $20.83
+https://deals.thenextweb.com/sales/pay-what-you-want-cloud-hacker-bundle        # $15.69
+
+https://deals.thenextweb.com/sales/the-complete-seo-course-rank-your-website-in-google-easily        # $9.00
+https://deals.thenextweb.com/sales/1-cryptocurrency-investment-opportunity                           # $9.00
+
+https://deals.thenextweb.com/sales/vpnsecure-lifetime-3                         # $39.99
 ```
 
 ##### Tech Conferences
