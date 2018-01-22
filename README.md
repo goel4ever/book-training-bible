@@ -64,6 +64,9 @@ https://www.edx.org/
 http://www.udacity.com/
 https://www.udemy.com/
 https://mva.microsoft.com/
+
+https://stackskills.com/courses/enrolled
+    https://deals.thenextweb.com/free
 ```
 
 ##### Tech Conferences
