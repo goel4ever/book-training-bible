@@ -73,6 +73,7 @@ https://deals.thenextweb.com/sales/vpnsecure-lifetime-3                         
 Google Cloud Next
 Google I/O
 Strata Data Conference
+Fluent
 ```
 
 
