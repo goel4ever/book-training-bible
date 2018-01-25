@@ -57,6 +57,8 @@ https://mva.microsoft.com/
 https://stackskills.com/courses/enrolled
     https://deals.thenextweb.com/free
 
+https://courses.in28minutes.com
+
 https://deals.thenextweb.com/sales/pwyw-full-stack-web-development-bundle-2     # $13.33
 https://deals.thenextweb.com/sales/pwyw-learn-to-code-2017-google-go            # $20.83
 https://deals.thenextweb.com/sales/pay-what-you-want-cloud-hacker-bundle        # $15.69

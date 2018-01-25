@@ -20,11 +20,9 @@ https://www.tutorialspoint.com/java/java_interfaces.htm
 
 https://www.javatpoint.com/java-treeset
 
-Spring
-======
-Google: spring static data store
-https://spring.io/guides/gs/caching/
-http://www.baeldung.com/spring-mvc-static-resources
+Spring boot
+===========
+https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps
 
 ```
 
@@ -34,6 +32,10 @@ http://www.baeldung.com/spring-mvc-static-resources
 Intermediate
 ============
 https://www.lynda.com/Spring-Framework-tutorials/Spring-Framework-Depth/606088-2.html
+
+Google: spring static data store
+https://spring.io/guides/gs/caching/
+http://www.baeldung.com/spring-mvc-static-resources
 ```
 
 ##### Novice Training
