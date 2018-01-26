@@ -3,27 +3,18 @@
 ##### Java Training
 
 ```
+Newbie - (For first time programmers. Very very basic content. Good compilation.)
+------
+https://www.udacity.com/course/java-programming-basics--ud282
+
 Novice
-======
+------
 https://www.udacity.com/course/object-oriented-programming-in-java--ud283
 
-Newbie - (For first time programmers. Very very basic content. Good compilation.)
-=========
-https://www.udacity.com/course/java-programming-basics--ud282
-```
-
-##### Quick Concepts
-
-```
+Quick Concepts
 http://xahlee.info/java-a-day/extend.html
 https://www.tutorialspoint.com/java/java_interfaces.htm
-
 https://www.javatpoint.com/java-treeset
-
-Spring boot
-===========
-https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps
-
 ```
 
 ##### Spring Training
@@ -36,6 +27,14 @@ https://www.lynda.com/Spring-Framework-tutorials/Spring-Framework-Depth/606088-2
 Google: spring static data store
 https://spring.io/guides/gs/caching/
 http://www.baeldung.com/spring-mvc-static-resources
+```
+
+##### Spring Boot
+
+```
+Novice
+------
+https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps
 ```
 
 ##### Novice Training
