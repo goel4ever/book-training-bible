@@ -35,5 +35,12 @@ http://javaarm.com/file/apache/Hadoop/books/Hadoop-The.Definitive.Guide_4.editio
 https://university.mongodb.com/
 ```
 
+##### Cassandra
+
+```
+https://academy.datastax.com/
+    https://academy.datastax.com/quick-downloads
+```
+
 
 
