@@ -63,6 +63,7 @@ https://deals.thenextweb.com/sales/pwyw-full-stack-web-development-bundle-2     
 https://deals.thenextweb.com/sales/pwyw-learn-to-code-2017-google-go            # $20.83
 https://deals.thenextweb.com/sales/pay-what-you-want-cloud-hacker-bundle        # $15.69
 
+https://deals.thenextweb.com/sales/ultimate-data-analytics-bundle                                    # $39.00
 https://deals.thenextweb.com/sales/the-complete-seo-course-rank-your-website-in-google-easily        # $9.00
 https://deals.thenextweb.com/sales/1-cryptocurrency-investment-opportunity                           # $9.00
 
