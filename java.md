@@ -32,6 +32,9 @@ http://www.baeldung.com/spring-mvc-static-resources
 ##### Spring Boot
 
 ```
+Best free tutorial is to read through Official SpringBoot Docs
+https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
+
 Novice
 ------
 https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps
