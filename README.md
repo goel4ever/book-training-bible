@@ -79,5 +79,12 @@ Strata Data Conference
 Fluent
 ```
 
+##### GraphQL
+
+```
+https://www.howtographql.com/
+
+```
+
 
 
