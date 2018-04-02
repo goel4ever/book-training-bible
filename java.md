@@ -42,6 +42,7 @@ https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps
 Intermediate
 ------------
 https://www.lynda.com/Spring-Framework-tutorials/Learning-Spring-Spring-Boot/550572-2.html
+https://o7planning.org/en/11669/spring-boot
 ```
 
 ##### Novice Training
