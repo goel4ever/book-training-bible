@@ -86,6 +86,13 @@ Basic Introduction
 https://www.howtographql.com/
 https://www.howtographql.com/react-apollo/0-introduction/
 
+https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b
+https://egghead.io/lessons/javascript-create-a-graphql-schema
+
+Tools
+https://developer.github.com/v4/explorer/
+https://launchpad.graphql.com/new
+
 ```
 
 
