@@ -2,6 +2,14 @@
 
 Selected training resources from the web segmented based on topic and level of difficulty. I'll be adding reviews for each course as I complete them. This document serves as quick access to training resources as well as learn how much a training is worth spending time in.
 
+##### My Learning Sources
+
+* https://stackskills.com
+* https://www.coursera.org/
+* https://www.edx.org/
+* http://www.udacity.com/
+* https://www.udemy.com/
+
 ##### Certification
 
 ```
@@ -44,10 +52,6 @@ https://www.ibm.com/developerworks/learn/
 https://developer.ibm.com/courses/learning-paths/
 https://cognitiveclass.ai/
 
-https://www.coursera.org/
-https://www.edx.org/
-http://www.udacity.com/
-https://www.udemy.com/
 https://mva.microsoft.com/
 ```
 
@@ -92,7 +96,6 @@ https://egghead.io/lessons/javascript-create-a-graphql-schema
 Tools
 https://developer.github.com/v4/explorer/
 https://launchpad.graphql.com/new
-
 ```
 
 
