@@ -15,6 +15,13 @@ https://unioncc.instructure.com/courses/17090/modules
 https://www.datacamp.com/home
 ```
 
+##### Intermediate Training
+
+```
+Good find
+https://lectures.quantecon.org/py/
+```
+
 ##### eBooks
 
 ```
