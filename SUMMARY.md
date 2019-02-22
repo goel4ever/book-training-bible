@@ -20,4 +20,5 @@
 * [Marketing](marketing.md)
 * [Version Control](version-control.md)
 * [Security](security.md)
+* [Scraping](scraping.md)
 
