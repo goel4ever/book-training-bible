@@ -21,4 +21,5 @@
 * [Version Control](version-control.md)
 * [Security](security.md)
 * [Scraping](scraping.md)
+* [Course Structure](course-structure.md)
 
