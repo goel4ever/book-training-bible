@@ -22,4 +22,6 @@
 * [Security](security.md)
 * [Scraping](scraping.md)
 * [Course Structure](course-structure.md)
+  * [Java](course-structure/java.md)
+  * [SpringBoot](course-structure/springboot.md)
 
