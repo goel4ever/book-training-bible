@@ -34,6 +34,7 @@ http://www.baeldung.com/spring-mvc-static-resources
 ```
 Best free tutorial is to read through Official SpringBoot Docs
 https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#using-boot-running-your-application
 
 Novice
 ------
