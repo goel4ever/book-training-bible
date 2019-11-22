@@ -44,6 +44,8 @@ Intermediate
 ------------
 https://www.lynda.com/Spring-Framework-tutorials/Learning-Spring-Spring-Boot/550572-2.html
 https://o7planning.org/en/11669/spring-boot
+
+Pluralsight has some good resources in late 2019
 ```
 
 ##### Novice Training
