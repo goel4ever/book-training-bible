@@ -45,7 +45,9 @@ Intermediate
 https://www.lynda.com/Spring-Framework-tutorials/Learning-Spring-Spring-Boot/550572-2.html
 https://o7planning.org/en/11669/spring-boot
 
+Notes:
 Pluralsight has some good resources in late 2019
+Checkout the SpringBoot CLI for quickly prototyping with Spring. One of the option is SDKMAN
 ```
 
 ##### Novice Training
